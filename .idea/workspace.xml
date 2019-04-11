@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="quest:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8cc9d1ef-0917-4b89-b4c3-88f81ed1a096" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Egsky/src/Main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../새 폴더/Egsky (4)/.idea/artifacts/Egsky_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anvilForbid/.idea/artifacts/anvilForbid_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anvilForbid/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anvilForbid/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anvilForbid/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anvilForbid/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anvilForbid/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anvilForbid/anvilForbid.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anvilForbid/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anvilForbid/src/OnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anvilForbid/src/plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goodbyelava/.idea/artifacts/goodbyelava_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goodbyelava/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goodbyelava/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goodbyelava/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goodbyelava/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goodbyelava/goodbyelava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goodbyelava/src/Generator.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goodbyelava/src/command/InGameCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goodbyelava/src/event/PurchaseUpgradeEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goodbyelava/src/gui/PurchaseGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goodbyelava/src/handler/OnBlockFromTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goodbyelava/src/handler/OnClick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goodbyelava/src/handler/OnJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goodbyelava/src/handler/OnPurchaseUpgrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goodbyelava/src/main/GoodByeLava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goodbyelava/src/message.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goodbyelava/src/misc.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goodbyelava/src/plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goodbyelava/src/purchaseGUI.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goodbyelava/src/util/ConfigManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goodbyelavaVer2/.idea/artifacts/goodbyelavaVer2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goodbyelavaVer2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goodbyelavaVer2/src/CustomEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goodbyelavaVer2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goodbyelavaVer2/src/plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lastmanstanding/.idea/artifacts/chatRoom_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lastmanstanding/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lastmanstanding/src/GUI/BanListGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lastmanstanding/src/GUI/UserListGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lastmanstanding/src/listener/OnQuit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lastmanstanding/src/util/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../slotMachine/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../warning/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../warning/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../warning/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../warning/warning.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="375531238">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="43" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="11" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.103" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.2" value="6" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.3" value="3" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.53" value="2" />
+          <entry key="project.open.time.54" value="2" />
+          <entry key="project.open.time.55" value="1" />
+          <entry key="project.open.time.58" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.61" value="2" />
+          <entry key="project.open.time.66" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.70" value="1" />
+          <entry key="project.open.time.75" value="1" />
+          <entry key="project.open.time.77" value="1" />
+          <entry key="project.open.time.82" value="1" />
+          <entry key="project.open.time.88" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.open.time.97" value="1" />
+          <entry key="project.opened" value="58" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="1" />
+          <entry key="java" value="164" />
+          <entry key="yml" value="40" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="164" />
+          <entry key="YAML" value="40" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="21" />
+          <entry key="java" value="53432" />
+          <entry key="yml" value="3346" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="53432" />
+          <entry key="PLAIN_TEXT" value="21" />
+          <entry key="YAML" value="3346" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Local Unit Tests" color="bbff7e" />
+    <fileColor scope="Android Instrumented Tests" color="bbff7e" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/listener/ReinforceResult.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/inventory/ScrollManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2210">
+              <caret line="101" column="23" selection-start-line="101" selection-start-column="23" selection-end-line="101" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/rpgmain/ProgressBar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/rpgmain/OnCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1222">
+              <caret line="58" column="39" selection-start-line="58" selection-start-column="39" selection-end-line="58" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/specialmod/PlusMinusOne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="606">
+              <caret line="54" column="33" lean-forward="true" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/specialmod/Mod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/inventory/SetLevelInventory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/listener/ScrollListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7410">
+              <caret line="312" column="32" selection-start-line="312" selection-start-column="32" selection-end-line="312" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/scroll/Scroll.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1222">
+              <caret line="58" column="24" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lore add 설명</find>
+      <find>remove(play</find>
+      <find>openin</find>
+      <find>setitem</find>
+      <find>lore</find>
+      <find>un</find>
+      <find>disable</find>
+      <find>createobject();</find>
+      <find>createob</find>
+      <find>createobject</find>
+      <find>currenten</find>
+      <find>puten</find>
+      <find>IEnchantLocale</find>
+      <find>desc</find>
+      <find>settine</find>
+      <find>getitemta</find>
+      <find>savescroll</find>
+      <find>getlogger</find>
+      <find>register</find>
+      <find>랜</find>
+      <find>yamlrel</find>
+      <find>lp</find>
+      <find>pex</find>
+      <find>lore.remove</find>
+      <find>강화</find>
+      <find>타이틀</find>
+      <find>랜덤주기</find>
+      <find>tm</find>
+      <find>closeinve</find>
+      <find>get</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Quest.java" />
+        <option value="$PROJECT_DIR$/src/ScrollListener.java" />
+        <option value="$PROJECT_DIR$/src/EnchntInventory.java" />
+        <option value="$PROJECT_DIR$/src/OnCommand.java" />
+        <option value="$PROJECT_DIR$/src/enchantlocale/IenchantLocale.java" />
+        <option value="$PROJECT_DIR$/src/enchantlocale/EnchantLocale.java" />
+        <option value="$PROJECT_DIR$/src/SetLevelInventory.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/ScrollMaker.java" />
+        <option value="$PROJECT_DIR$/src/Scroll.java" />
+        <option value="$PROJECT_DIR$/src/EnchantInventory.java" />
+        <option value="$PROJECT_DIR$/src/enchantlocale/IEnchantLocale.java" />
+        <option value="$PROJECT_DIR$/src/enchantlocale/Fortune.java" />
+        <option value="$PROJECT_DIR$/src/enchantlocale/ShowCurrentEnchant.java" />
+        <option value="$PROJECT_DIR$/src/enchantlocale/Efficiency.java" />
+        <option value="$PROJECT_DIR$/src/enchantlocale/Durability.java" />
+        <option value="$PROJECT_DIR$/src/enchantlocale/Close.java" />
+        <option value="$PROJECT_DIR$/src/ScrollManager.java" />
+        <option value="$PROJECT_DIR$/src/main/OnCommand.java" />
+        <option value="$PROJECT_DIR$/src/util/Util.java" />
+        <option value="$PROJECT_DIR$/src/inventory/SetLevelInventory.java" />
+        <option value="$PROJECT_DIR$/src/setEnchantLocale.yml" />
+        <option value="$PROJECT_DIR$/src/listener/ReinforceResult.java" />
+        <option value="$PROJECT_DIR$/limitEnchant.yml" />
+        <option value="$PROJECT_DIR$/src/util/NBTEditor.java" />
+        <option value="$PROJECT_DIR$/src/rpgmain/Main.java" />
+        <option value="$PROJECT_DIR$/src/rpgmain/ProgressBar.java" />
+        <option value="$PROJECT_DIR$/src/config.yml" />
+        <option value="$PROJECT_DIR$/src/limitEnchant.yml" />
+        <option value="$PROJECT_DIR$/src/message.yml" />
+        <option value="$PROJECT_DIR$/src/enchantMenu.yml" />
+        <option value="$PROJECT_DIR$/src/inventory/EnchantInventory.java" />
+        <option value="$PROJECT_DIR$/src/controlItem.yml" />
+        <option value="$PROJECT_DIR$/src/util/EnchantmentUtil.java" />
+        <option value="$PROJECT_DIR$/src/rpgmain/OnCommand.java" />
+        <option value="$PROJECT_DIR$/src/plugin.yml" />
+        <option value="$PROJECT_DIR$/src/rpgmain/RPGMain.java" />
+        <option value="$PROJECT_DIR$/src/inventory/ScrollMaker.java" />
+        <option value="$PROJECT_DIR$/src/specialmod/Mod.java" />
+        <option value="$PROJECT_DIR$/src/listener/ScrollListener.java" />
+        <option value="$PROJECT_DIR$/src/scroll/Scroll.java" />
+        <option value="$PROJECT_DIR$/src/inventory/ScrollManager.java" />
+        <option value="$PROJECT_DIR$/src/specialmod/PlusMinusOne.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="quest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="quest" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551541671711" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../server/plugins/Egsky.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\오민영\Desktop\이클립스구문 (2) (2)\quest\src" />
+      <recent name="C:\Users\오민영\Desktop\이클립스구문 (2) (2)\quest" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cc9d1ef-0917-4b89-b4c3-88f81ed1a096" name="Default Changelist" comment="" />
+      <created>1548231787181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548231787181</updated>
+      <workItem from="1548231883897" duration="16267000" />
+      <workItem from="1548289428787" duration="1194000" />
+      <workItem from="1548502620483" duration="3546000" />
+      <workItem from="1549108960192" duration="822000" />
+      <workItem from="1549109876187" duration="123000" />
+      <workItem from="1549110078840" duration="48000" />
+      <workItem from="1549110168453" duration="123000" />
+      <workItem from="1549110333574" duration="1289000" />
+      <workItem from="1549159316921" duration="48465000" />
+      <workItem from="1549215434719" duration="50000" />
+      <workItem from="1549243695100" duration="2454000" />
+      <workItem from="1549272575275" duration="21065000" />
+      <workItem from="1549338014247" duration="14087000" />
+      <workItem from="1549356226048" duration="17547000" />
+      <workItem from="1549410987879" duration="39111000" />
+      <workItem from="1549498058387" duration="17607000" />
+      <workItem from="1549546819775" duration="11826000" />
+      <workItem from="1549583451188" duration="11871000" />
+      <workItem from="1549616844530" duration="3719000" />
+      <workItem from="1549632389911" duration="1213000" />
+      <workItem from="1549679128309" duration="208000" />
+      <workItem from="1549697858862" duration="597000" />
+      <workItem from="1549721330925" duration="55000" />
+      <workItem from="1549728233450" duration="1201000" />
+      <workItem from="1549764601530" duration="598000" />
+      <workItem from="1549769549531" duration="622000" />
+      <workItem from="1549846020178" duration="1771000" />
+      <workItem from="1549867520311" duration="7401000" />
+      <workItem from="1549906234516" duration="223000" />
+      <workItem from="1549950796872" duration="5242000" />
+      <workItem from="1549964353570" duration="9657000" />
+      <workItem from="1549984241474" duration="791000" />
+      <workItem from="1550028364191" duration="3709000" />
+      <workItem from="1550060615798" duration="2328000" />
+      <workItem from="1550073660498" duration="3875000" />
+      <workItem from="1550152280325" duration="8059000" />
+      <workItem from="1550201903367" duration="10182000" />
+      <workItem from="1550244771115" duration="908000" />
+      <workItem from="1550283381280" duration="6735000" />
+      <workItem from="1550308634215" duration="2338000" />
+      <workItem from="1550315141416" duration="11186000" />
+      <workItem from="1550330668905" duration="3218000" />
+      <workItem from="1550385355483" duration="92000" />
+      <workItem from="1550398912808" duration="3475000" />
+      <workItem from="1550458012602" duration="1817000" />
+      <workItem from="1550736166006" duration="779000" />
+      <workItem from="1550763102466" duration="1987000" />
+      <workItem from="1550804700045" duration="1785000" />
+      <workItem from="1550996766072" duration="950000" />
+      <workItem from="1551083043666" duration="1340000" />
+      <workItem from="1551167517023" duration="590000" />
+      <workItem from="1551536275480" duration="5390000" />
+      <workItem from="1551598496643" duration="5013000" />
+      <workItem from="1551699925653" duration="596000" />
+      <workItem from="1551948682520" duration="1308000" />
+      <workItem from="1552178969251" duration="313000" />
+      <workItem from="1552209218451" duration="1000" />
+      <workItem from="1552731683094" duration="1192000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="319855000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09541578" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3296582" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5042644" side_tool="true" weight="0.25689086" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49573562" weight="0.25689086" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32995737" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Quest.java" />
+    <entry file="file://$PROJECT_DIR$/src/ScrollListener.java" />
+    <entry file="file://$PROJECT_DIR$/quest.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/enchantlocale/EnchantLocale.java" />
+    <entry file="file://$PROJECT_DIR$/src/enchantlocale/IEnchantLocale.java" />
+    <entry file="file://$PROJECT_DIR$/src/enchantlocale/Fortune.java" />
+    <entry file="file://$PROJECT_DIR$/src/enchantlocale/ShowCurrentEnchant.java" />
+    <entry file="file://$PROJECT_DIR$/src/enchantlocale/Efficiency.java" />
+    <entry file="file://$PROJECT_DIR$/src/enchantlocale/Close.java" />
+    <entry file="file://$PROJECT_DIR$/src/enchantlocale/Durability.java" />
+    <entry file="file://$PROJECT_DIR$/src/util/Util.java" />
+    <entry file="file://$PROJECT_DIR$/src/message.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/NBTEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="812">
+          <caret line="301" column="38" selection-start-line="301" selection-start-column="38" selection-end-line="301" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/enchantMenu.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/limitEnchant.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controlItem.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/questConfig.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/EnchantmentUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3822">
+          <caret line="160" selection-start-line="160" selection-end-line="160" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/plugin.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rpgmain/RPGMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="197" column="27" selection-start-line="197" selection-start-column="27" selection-end-line="197" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inventory/ScrollMaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4966">
+          <caret line="211" column="41" selection-start-line="211" selection-start-column="41" selection-end-line="211" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inventory/EnchantInventory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/listener/ReinforceResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inventory/ScrollManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2210">
+          <caret line="101" column="23" selection-start-line="101" selection-start-column="23" selection-end-line="101" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rpgmain/ProgressBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rpgmain/OnCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1222">
+          <caret line="58" column="39" selection-start-line="58" selection-start-column="39" selection-end-line="58" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/specialmod/Mod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inventory/SetLevelInventory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/listener/ScrollListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7410">
+          <caret line="312" column="32" selection-start-line="312" selection-start-column="32" selection-end-line="312" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scroll/Scroll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1222">
+          <caret line="58" column="24" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/specialmod/PlusMinusOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="54" column="33" lean-forward="true" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>quest:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>quest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

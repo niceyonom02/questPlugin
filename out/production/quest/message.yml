@@ -1,0 +1,41 @@
+message:
+  #main menu
+
+  #
+  #
+  #
+  # 제작 GUI관련이니 크게 신경안쓰셔도 됩니다.
+  #
+  #
+  #
+  #
+
+
+  setName: '이름 설정이 완료되었습니다!'
+  setSuccess: '성공 확률 설정이 완료되었습니다!'
+  setFail: '실패 확률 설정이 완료되었습니다!'
+  setKeep: '유지 확률 설정이 완료되었습니다!'
+  setBroken: '파괴 확률 설정이 완료되었습니다!'
+  setLore: '설명 설정이 완료되었습니다!'
+  mustNatural: '자연수만 입력이 가능합니다!'
+  typeName: '&6스크롤의 이름을 채팅에 쳐주세요!'
+  typeSuccess: '&6스크롤의 성공 확률을 채팅에 쳐주세요!'
+  typeFail: '&6스크롤의 실패 확률을 채팅에 쳐주세요!'
+  typeKeep: '&6스크롤의 유지 확률을 채팅에 쳐주세요!'
+  typeBroken: '&6스크롤의 파괴 확률을 채팅에 쳐주세요!'
+  typeSave: '설명을 쓰신 후 다 쓰시면 <저장>을 쳐주세요!'
+  duplicate: '중복되는 이름의 스크롤이 있습니다!'
+  notComplete: '아직 스크롤이 완성되지 않았습니다!'
+  setPath: '&6이 곳을 눌러 스크롤의 %behaviorPath%을(를) 설정하세요!'
+  currentPath: '현재  %behaviorPath% :: %getBehavior%'
+
+  #choose Enchant menu
+  chooseEnchantName: '%localName%을(를) 선택하셨습니다!'
+  chooseEnchantLevel: '&6인챈트 레벨을 지정해주세요!'
+  setEnchant: '&6인챈트와 레벨 정보가 저장되었습니다!'
+
+  #scroll Manager menu
+  registeredScroll: '스크롤 등록 완료!'
+  deletedScroll: '%scrollName% 스크롤을 삭제하였습니다!'
+  noSuchIndexScroll: '번호에 해당하는 스크롤이 없습니다!'
+

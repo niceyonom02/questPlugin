@@ -1,0 +1,46 @@
+#PlaceHolder#
+# %name% - 스크롤 이름
+# %success% - 강화의 성공 확률
+# %fail% - 강화의 실패 확률
+# %broken% - 아이템의 파괴 확률
+
+scroll:
+  '&cTest1': # 스크롤의 이름
+    enchant:
+      DIG_SPEED: 4 #인챈트코드: 인챈트레벨 -> 인챈트코드는 대문자로 적어야 합니다. 인챈트 코드: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/enchantments/Enchantment.html
+      LOOT_BONUS_BLOCKS: 4
+      DURABILITY: 4
+    successRate: 40
+    failRate: 30
+    keepRate: 20
+    brokenRate: 10
+    lore:
+    - '&eABC'
+    - '&6DEFG'
+  Test2:
+    enchant:
+      DIG_SPEED: 4
+      LOOT_BONUS_BLOCKS: 4
+      DURABILITY: 4
+    successRate: 40
+    failRate: 30
+    keepRate: 20
+    brokenRate: 10
+  Test3:
+    enchant:
+      DIG_SPEED: 4
+      LOOT_BONUS_BLOCKS: 4
+      DURABILITY: 4
+    successRate: 40
+    failRate: 30
+    keepRate: 20
+    brokenRate: 10
+    lore:
+    - '%name%, %success%%, %fail%%, %broken%%'
+  Te:
+    enchant:
+      DIG_SPEED: 5
+    successRate: 100
+    failRate: 0
+    keepRAte: 0
+    brokenRate: 0

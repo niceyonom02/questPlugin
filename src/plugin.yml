@@ -1,0 +1,10 @@
+name: EGRPG
+version: 1.0.0
+main: rpgmain.RPGMain
+commands:
+  퀘스트:
+  tm:
+  스크롤:
+  강화:
+  강화gui:
+

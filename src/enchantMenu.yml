@@ -1,0 +1,44 @@
+#You can modify Enchant selection menu
+
+#
+#
+#
+# 제작 GUI 관련이니 크게 신경안쓰셔도 됩니다.
+#
+#
+#
+#
+
+enchant:
+  durability: # the enchant code can be found here : https://hub.spigotmc.org/javadocs/spigot/org/bukkit/enchantments/Enchantment.html
+    localName: '내구성' #한글 이름
+    slot: 0 # 슬롯
+    material: GOLD_BLOCK #인챈트 대표 아이템 -> 링크: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html
+    lore:
+    - '&e내구성을 설정합니다.'
+  loot_bonus_blocks:
+    localName: '행운'
+    slot: 1
+    material: IRON_BLOCK
+    lore:
+    - '&e행운을 설정합니다.'
+  dig_speed:
+    localName: '효율'
+    slot: 2
+    material: EMERALD_BLOCK
+    lore:
+    - '&e효율을 설정합니다.'
+  close:
+    localName: '&e메뉴 닫기'
+    slot: 4
+    material: IRON_BLOCK
+    lore:
+    - '&e인챈트를 저장하고 돌아갑니다.'
+  check:
+    localName: '&e인챈트'
+    slot: 3
+    material: GOLD_INGOT
+    lore:
+    - '&c현재 인챈트'
+    - '&7인챈트 이름: &e%enchant% &7인챈트 레벨: &e%level%'
+    - '&e-------------------'

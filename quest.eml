@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/quest"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="spigot-1.12.2.jar" scope="COMPILE">
+		<srcroot url="jar://$MODULE_DIR$/../../server/spigot-1.12.2.jar!/"/>
+	</lib>
+</component>
